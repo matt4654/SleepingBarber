@@ -1,6 +1,6 @@
 # Sleeping Barber Problem - C++
 
-##Problem Statement 
+## Problem Statement 
 
 https://en.wikipedia.org/wiki/Sleeping_barber_problem#Problem_statement
 
